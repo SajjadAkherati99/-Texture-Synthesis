@@ -11,7 +11,7 @@ Texture Synthesis is the process of algorithmically constructing a large digital
 <p align="center">
   <img width="700" height="700" src="./res1.jpg">
   <img width="700" height="700" src="./res1.1.jpg">
-  <img width="700" height="700" src="./res1_80_20.jpg">
+  <img width="700" height="700" src="./res1.80_20.jpg">
   <img width="700" height="700" src="./res1.1_80_20.jpg">
 </p>
 
